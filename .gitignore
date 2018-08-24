@@ -19,14 +19,11 @@ geshihua.ui
 gshwindow.cpp
 gshwindow.h
 gshwindow.ui
-help.txt
 newcombox.cpp
 newcombox.h
 newico.qrc
 object_script.Demo_1.Debug
 object_script.Demo_1.Release
-other/
-pictureText/
 release/
 ui_gshwindow.h
 ui_help_txt.h
